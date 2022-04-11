@@ -2,3 +2,5 @@
 echo "web page"
 #adding a frontpage login button the application
 echo "new button"
+#fixing the issue with new code
+echo "issue has been fixed"
