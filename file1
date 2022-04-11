@@ -2,5 +2,10 @@ pushing from local to remote
 checking the sync
 checking fetch 
 commit from dev branch
+set up upstream
+eck from dev to dev
+Tested feature in qa 
+all the test passed and good to promote
 origin/main
 upstream from main branch
+
